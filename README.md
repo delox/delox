@@ -1,16 +1,26 @@
-## Hi there 👋
+## About me 👨‍💻
 
-<!--
-**delox/delox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **José Solórzano**, a software engineer specialized in **iOS engineering** using **Swift** (**UIKit**, **SwiftUI**).
 
-Here are some ideas to get you started:
+I've been an **Apple** consumer ever since the **iPhone 4** came out. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My experience spans from startups to large corporations, having worked on TV streaming, social media, and then specialized in Fintech (GroupStake, Commonstock, Yahoo Finance).
+
+Tech community contributor, occasionally talking about iOS on LinkedIn and Medium.
+
+> ### My mission is to provide and ship solutions
+
+<br/>
+
+- 📱 I'm currently working on native **iOS development** (**Swift** | Objective-C)
+- 🏋️‍♀️ If I'm not coding, I'm at the gym
+- 💬 English, French and Spanish are my main spoken languages though I do speak (or try to) several other.
+- 🙋‍♂️ Find me on [LinkedIn](https://www.linkedin.com/in/solozanogjose/)
+- 🎓 Computer science
+- 
+<br/>
+
+
+## Main programming languages
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3.svg?&logo=apple&logoColor=white)
